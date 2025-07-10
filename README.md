@@ -1,11 +1,6 @@
-# TP1 - INF3173 - Principes des systèmes d'exploitation
-## Université du Québec à Montréal (UQAM)
-#### Étudiant: Lambert Duclos-de Guise
-#### Code permanent: DUCL15029807
-#### Cours: INF3173-40
-## Description
 
-Ce travail est un programme en C qui fait la validation de grille sudoku, et ce, en utilisant le "multithreading".
+
+Ce programme fait la validation de grilles sudoku, et ce, en utilisant le "multithreading".
 
 ## Compilation et exécution
 
