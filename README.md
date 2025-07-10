@@ -1,4 +1,4 @@
-
+# Sudoku validator
 
 Ce programme fait la validation de grilles sudoku, et ce, en utilisant le "multithreading".
 
