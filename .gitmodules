@@ -1,0 +1,3 @@
+[submodule "test/bats-assert"]
+	path = test/bats-assert
+	url = https://github.com/bats-core/bats-assert.git
